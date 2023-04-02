@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chkrishna142&label=Profile%20views&color=0e75b6&style=flat" alt="chkrishna142" /> </p>
 
 - 📫 How to reach me **https://www.linkedin.com/in/ch-krishna-3469a1219/**
+- My Portfolio- **https://chkrishna142.github.io/chkrishna.github.io/**
 
 - ⚡ Fun fact **I think I am funny**
 
